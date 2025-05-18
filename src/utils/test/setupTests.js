@@ -1,3 +1,4 @@
+//테스트 환경 구축
 import '@testing-library/jest-dom';
 
 afterEach(() => {
